@@ -1,0 +1,15 @@
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\obj\Debug\netstandard2.0\ProjectManager.csproj.AssemblyReference.cache
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\obj\Debug\netstandard2.0\ProjectManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\obj\Debug\netstandard2.0\ProjectManager.AssemblyInfoInputs.cache
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\obj\Debug\netstandard2.0\ProjectManager.AssemblyInfo.cs
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\obj\Debug\netstandard2.0\ProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\bin\Debug\netstandard2.0\ProjectManager.deps.json
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\bin\Debug\netstandard2.0\ProjectManager.dll
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\bin\Debug\netstandard2.0\ref\ProjectManager.dll
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\bin\Debug\netstandard2.0\ProjectManager.pdb
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\obj\Debug\netstandard2.0\ProjectManager.dll
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\obj\Debug\netstandard2.0\ref\ProjectManager.dll
+C:\Users\Кирилл\source\repos\ProjectManager\ProjectManager\obj\Debug\netstandard2.0\ProjectManager.pdb
